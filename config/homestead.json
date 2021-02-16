@@ -1,0 +1,6 @@
+{
+  "network": "mainnet",
+  "startBlock": 11863739,
+  "governorAddress": "0x690e775361AD66D1c4A25d89da9fCd639F5198eD",
+  "tokenAddress": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3"
+}
